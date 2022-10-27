@@ -5,3 +5,4 @@
 - Centralized
 - Git flow
 - Github Flow
+- Gitlab flow
